@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 - 🌱 I’m currently learning: Advanced algorithms, machine learning, and DevOps practices.
 - 💬 Ask me about: HTML, CSS, Python, JavaScript, cloud computing, AJAX, JSON, and open-source contributions.
-- 📫 How to reach me: You can reach me via email at postthisweek@gmail.com. 
+- 📫 How to reach me: You can reach me via email at postthisweek1@gmail.com. 
 - ⚡ Fun fact: I love reading, blogging on politics, religion, society and accessibility as well as exploring new ideas during my free time.
 
 ## GitHub Stats
